@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_DB_TRAVEL_EGTM'
+define service ZUI_DB_TRAVEL_EGTM_O4 {
+  expose ZC_DB_TRAVEL_EGTM as Travel2;
+}
